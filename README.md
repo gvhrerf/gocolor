@@ -1,6 +1,6 @@
 
 # gocolor
-![Static Badge](https://img.shields.io/badge/colors)
+![X](https://img.shields.io/badge/FOLLOW-1000-1DA1F2?labelColor=000000&logo=x&logoColor=white&style=flat-square)
 
 Go のターミナル出力に色や装飾（太字・下線など）を付けるための軽量ライブラリです。
 外部依存なし（標準ライブラリのみ）。16色 / 256色パレット / 24bit トゥルーカラー(RGB) に対応しています。
